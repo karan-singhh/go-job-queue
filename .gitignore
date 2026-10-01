@@ -1,0 +1,12 @@
+notes.MD
+prompt.md
+
+# Compiled binaries
+job-queue
+job-queue.exe
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
